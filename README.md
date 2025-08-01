@@ -1,4 +1,4 @@
-# 📦 Inventory Tracking System with Streamlit and PostgreSQL
+# 📦 Store Inventory Tracking System with Streamlit and PostgreSQL
 
 A user-friendly web-based inventory tracking application developed using **Streamlit** and connected to a **PostgreSQL** database. This system allows users to efficiently track, manage, and analyze inventory items with full CRUD functionality.
 
