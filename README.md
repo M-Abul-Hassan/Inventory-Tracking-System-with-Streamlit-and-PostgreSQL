@@ -22,7 +22,11 @@ A user-friendly web-based inventory tracking application developed using **Strea
 - Quantity and date inputs grouped logically
 - Pricing and status shown dynamically
 
----
+- <img width="1813" height="951" alt="image" src="https://github.com/user-attachments/assets/da5d586d-1ad1-44bd-b6f8-9cb3723aeac0" />
+
+
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/fe23259b-834e-4952-932e-2b9dce3efe5c" />
+
 
 ## 🛠️ Tech Stack
 
